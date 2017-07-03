@@ -1,0 +1,8499 @@
+{
+ "course_name": [
+  {
+   "name": "Burnet Woods (Univ. of Cincinnati)",
+   "url": "https://www.dgcoursereview.com/course.php?id=309",
+   "details": [
+    {
+     "name": "Burnet Woods (Univ. of Cincinnati)"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "0.0 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Dirt"
+    }
+   ],
+   "hole_number": [
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "460 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "120 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "405 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "400 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "265 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "345 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "464 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "295 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "450 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "295 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "340 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "270 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "285 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "460 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "510 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "267 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "7154 ft / 58"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "271 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "252 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "325 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "355 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "345 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "355 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "370 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "375 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "385 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "370 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "277 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "364 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "6327 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "145 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "310 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "280 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "423 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "282 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "324 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "482 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "268 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "355 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "480 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "95 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "393 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "200 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "150 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "200 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "275 ft (5)"
+    },
+    {
+     "name": "5",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "195 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "210 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "145 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "165 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "90 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "290 ft (5)"
+    },
+    {
+     "name": "13",
+     "selection4": "240 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "135 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "180 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "175 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "170 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "150 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "3340 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "225 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "210 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "250 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "340 ft (5)"
+    },
+    {
+     "name": "5",
+     "selection4": "312 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "217 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "289 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "270 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "135 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "270 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "330 ft (5)"
+    },
+    {
+     "name": "12",
+     "selection4": "320 ft (5)"
+    },
+    {
+     "name": "13",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "171 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "266 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "4525 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "278 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "248 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "274 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "375 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "400 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "160 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "285 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2380 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "226 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "317 ft (5)"
+    },
+    {
+     "name": "3",
+     "selection4": "227 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "326 ft (5)"
+    },
+    {
+     "name": "5",
+     "selection4": "265 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "375 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "300 ft (5)"
+    },
+    {
+     "name": "8",
+     "selection4": "290 ft (5)"
+    },
+    {
+     "name": "9",
+     "selection4": "212 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "290 ft (5)"
+    },
+    {
+     "name": "11",
+     "selection4": "219 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "225 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "228 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "254 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "291 ft (5)"
+    },
+    {
+     "name": "16",
+     "selection4": "330 ft (5)"
+    },
+    {
+     "name": "17",
+     "selection4": "355 ft (5)"
+    },
+    {
+     "name": "18",
+     "selection4": "329 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5059 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "340 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "275 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "725 ft (5)"
+    },
+    {
+     "name": "5",
+     "selection4": "277 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "320 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "390 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "290 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "363 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "230 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "280 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "480 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5650 ft / 56"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "325 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "310 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "350 ft (5)"
+    },
+    {
+     "name": "6",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "360 ft (5)"
+    },
+    {
+     "name": "8",
+     "selection4": "400 ft (5)"
+    },
+    {
+     "name": "9",
+     "selection4": "280 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2760 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "123 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "219 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "288 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "246 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "383 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "165 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "282 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "640 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "370 ft (4)"
+    },
+    {
+     "name": "A",
+     "selection4": "420 ft (3)"
+    },
+    {
+     "name": "B",
+     "selection4": "315 ft (3)"
+    },
+    {
+     "name": "C",
+     "selection4": "299 ft (3)"
+    },
+    {
+     "name": "D",
+     "selection4": "285 ft (3)"
+    },
+    {
+     "name": "E",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "390 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "F",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "510 ft (5)"
+    },
+    {
+     "name": "6",
+     "selection4": "587 ft (5)"
+    },
+    {
+     "name": "7",
+     "selection4": "259 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "368 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "647 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "500 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "214 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "237 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "1001 ft (5)"
+    },
+    {
+     "name": "16",
+     "selection4": "339 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "651 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "9883 ft / 87"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "335 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "360 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "303 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "201 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "283 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "348 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "309 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "350 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "365 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "317 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "276 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "291 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "285 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "19",
+     "selection4": "289 ft (3)"
+    },
+    {
+     "name": "20",
+     "selection4": "270 ft (3)"
+    },
+    {
+     "name": "21",
+     "selection4": "315 ft (4)"
+    },
+    {
+     "name": "22",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "23",
+     "selection4": "302 ft (3)"
+    },
+    {
+     "name": "24",
+     "selection4": "519 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "7294 ft / 72"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "318 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "251 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "345 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "324 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "316 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "334 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "186 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "288 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "272 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "194 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "146 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "171 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "216 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "252 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "232 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "335 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "325 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "375 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "475 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "310 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "325 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "385 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "325 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "273 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "324 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "310 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "465 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "310 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "485 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    }
+   ]
+  },
+  {
+   "name": "St. Bernard DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=2584",
+   "details": [
+    {
+     "name": "St. Bernard DGC"
+    },
+    {
+     "name": "St. Bernard, OH"
+    },
+    {
+     "name": "1.8 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Surge DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=2513",
+   "details": [
+    {
+     "name": "Surge DGC"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "2.2 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Mt. Airy Forest",
+   "url": "https://www.dgcoursereview.com/course.php?id=471",
+   "details": [
+    {
+     "name": "Mt. Airy Forest"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "4.7 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DGA"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Dunham Rec. Center",
+   "url": "https://www.dgcoursereview.com/course.php?id=6899",
+   "details": [
+    {
+     "name": "Dunham Rec. Center"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "5.3 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Astro-Turf"
+    }
+   ]
+  },
+  {
+   "name": "Highland Hills Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=696",
+   "details": [
+    {
+     "name": "Highland Hills Park"
+    },
+    {
+     "name": "Fort Thomas, KY"
+    },
+    {
+     "name": "6.0 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 1"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Gardner Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=4547",
+   "details": [
+    {
+     "name": "Gardner Park"
+    },
+    {
+     "name": "Lockland, OH"
+    },
+    {
+     "name": "7.1 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Natural"
+    }
+   ]
+  },
+  {
+   "name": "Winton Woods",
+   "url": "https://www.dgcoursereview.com/course.php?id=877",
+   "details": [
+    {
+     "name": "Winton Woods"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "8.2 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Mach 3"
+    },
+    {
+     "name": "Asphalt"
+    }
+   ]
+  },
+  {
+   "name": "Woodland Mound Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=880",
+   "details": [
+    {
+     "name": "Woodland Mound Park"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "8.7 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DGA"
+    },
+    {
+     "name": "Asphalt"
+    }
+   ]
+  },
+  {
+   "name": "Embshoff Woods",
+   "url": "https://www.dgcoursereview.com/course.php?id=442",
+   "details": [
+    {
+     "name": "Embshoff Woods"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "10.3 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 1"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Johnson Hills Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=8720",
+   "details": [
+    {
+     "name": "Johnson Hills Park"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "10.6 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach X"
+    },
+    {
+     "name": "Turf"
+    },
+    {
+     "name": "No Reviews"
+    }
+   ]
+  },
+  {
+   "name": "Heritage Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=540",
+   "details": [
+    {
+     "name": "Heritage Park"
+    },
+    {
+     "name": "Cincinnati, OH"
+    },
+    {
+     "name": "10.6 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "William Harbin Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=875",
+   "details": [
+    {
+     "name": "William Harbin Park"
+    },
+    {
+     "name": "Fairfield, OH"
+    },
+    {
+     "name": "13.1 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Miami Whitewater Forest",
+   "url": "https://www.dgcoursereview.com/course.php?id=159",
+   "details": [
+    {
+     "name": "Miami Whitewater Forest"
+    },
+    {
+     "name": "Harrison, OH"
+    },
+    {
+     "name": "13.2 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 1"
+    },
+    {
+     "name": "Asphalt"
+    }
+   ]
+  },
+  {
+   "name": "RA Jones Middle School",
+   "url": "https://www.dgcoursereview.com/course.php?id=6292",
+   "details": [
+    {
+     "name": "RA Jones Middle School"
+    },
+    {
+     "name": "Florence, KY"
+    },
+    {
+     "name": "13.3 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Idlewild",
+   "url": "https://www.dgcoursereview.com/course.php?id=507",
+   "details": [
+    {
+     "name": "Idlewild"
+    },
+    {
+     "name": "Burlington, KY"
+    },
+    {
+     "name": "15.4 Miles"
+    },
+    {
+     "name": "24"
+    },
+    {
+     "name": "Mixed"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Lincoln Ridge Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=730",
+   "details": [
+    {
+     "name": "Lincoln Ridge Park"
+    },
+    {
+     "name": "Independence, KY"
+    },
+    {
+     "name": "15.4 Miles"
+    },
+    {
+     "name": "24"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Boone Woods Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=3645",
+   "details": [
+    {
+     "name": "Boone Woods Park"
+    },
+    {
+     "name": "Burlington, KY"
+    },
+    {
+     "name": "15.4 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Karl Von Coldewey DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=4076",
+   "details": [
+    {
+     "name": "Karl Von Coldewey DGC"
+    },
+    {
+     "name": "Milford, OH"
+    },
+    {
+     "name": "15.5 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Lightning DB-5"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "A. J. Jolly Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=214",
+   "details": [
+    {
+     "name": "A. J. Jolly Park"
+    },
+    {
+     "name": "Alexandria, KY"
+    },
+    {
+     "name": "17.6 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Alexandria Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=7030",
+   "details": [
+    {
+     "name": "Alexandria Park"
+    },
+    {
+     "name": "Alexandria, KY"
+    },
+    {
+     "name": "17.6 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DGA"
+    },
+    {
+     "name": "Gravel"
+    }
+   ],
+   "hole_number": [
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "101 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "425 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "470 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "310 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "309 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "309 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "411 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "336 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "369 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "432 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "360 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "585 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "236 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "303 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "344 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "193 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "188 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "222 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "244 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2223 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "252 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "273 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "271 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "206 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "260 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "148 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "320 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "155 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "184 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "142 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "130 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "285 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "161 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "217 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "339 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "233 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "349 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "254 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "282 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "363 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "299 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "227 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2563 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "304 ft --"
+    },
+    {
+     "name": "2",
+     "selection4": "357 ft --"
+    },
+    {
+     "name": "3",
+     "selection4": "356 ft --"
+    },
+    {
+     "name": "4",
+     "selection4": "183 ft --"
+    },
+    {
+     "name": "5",
+     "selection4": "279 ft --"
+    },
+    {
+     "name": "6",
+     "selection4": "296 ft --"
+    },
+    {
+     "name": "7",
+     "selection4": "285 ft --"
+    },
+    {
+     "name": "8",
+     "selection4": "260 ft --"
+    },
+    {
+     "name": "9",
+     "selection4": "297 ft --"
+    },
+    {
+     "name": "10",
+     "selection4": "184 ft --"
+    },
+    {
+     "name": "11",
+     "selection4": "285 ft --"
+    },
+    {
+     "name": "12",
+     "selection4": "334 ft --"
+    },
+    {
+     "name": "13",
+     "selection4": "293 ft --"
+    },
+    {
+     "name": "14",
+     "selection4": "276 ft --"
+    },
+    {
+     "name": "15",
+     "selection4": "379 ft --"
+    },
+    {
+     "name": "16",
+     "selection4": "277 ft --"
+    },
+    {
+     "name": "17",
+     "selection4": "250 ft --"
+    },
+    {
+     "name": "18",
+     "selection4": "250 ft --"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "6288 ft / --"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "248 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "203 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "222 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "353 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "282 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "371 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "262 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "248 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2384 ft / 37"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "325 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "310 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "360 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "400 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "280 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2189 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "209 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "186 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "211 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "234 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "317 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "345 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "268 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "301 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "265 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "186 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "254 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "270 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "292 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "224 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "312 ft (5)"
+    },
+    {
+     "name": "18",
+     "selection4": "240 ft (4)"
+    },
+    {
+     "name": "19",
+     "selection4": "152 ft (3)"
+    },
+    {
+     "name": "20",
+     "selection4": "277 ft (4)"
+    },
+    {
+     "name": "21",
+     "selection4": "253 ft (4)"
+    },
+    {
+     "name": "22",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "23",
+     "selection4": "266 ft (4)"
+    },
+    {
+     "name": "24",
+     "selection4": "237 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5934 ft / 72"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "208 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "368 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "290 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "400 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "414 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "280 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "217 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "470 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "294 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "337 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "344 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "691 ft (5)"
+    },
+    {
+     "name": "17",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "420 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "6193 ft / 56"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "265 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "269 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "300 ft (5)"
+    },
+    {
+     "name": "4",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "351 ft (5)"
+    },
+    {
+     "name": "8",
+     "selection4": "193 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "244 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2307 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "299 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "352 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "211 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "202 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "267 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "340 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "332 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "293 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "328 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "259 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "249 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "338 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "388 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "315 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "219 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "420 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "587 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "266 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "308 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "343 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "525 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "176 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "320 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "350 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "420 ft (5)"
+    },
+    {
+     "name": "7",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "280 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "400 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "410 ft (5)"
+    },
+    {
+     "name": "12",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "240 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "250 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "280 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "600 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5420 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "335 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "140 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "165 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "175 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "125 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "160 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "1962 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "233 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "363 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "147 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "535 ft (5)"
+    },
+    {
+     "name": "8",
+     "selection4": "281 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "203 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "271 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "141 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "308 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "235 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "145 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "203 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "221 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "376 ft (3)"
+    },
+    {
+     "name": "19",
+     "selection4": "515 ft (4)"
+    },
+    {
+     "name": "20",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5395 ft / 60"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "285 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "451 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "375 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "420 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "340 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "395 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "357 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "328 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "228 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "397 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "390 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "231 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "390 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    }
+   ]
+  },
+  {
+   "name": "Mason Sports Park DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=2628",
+   "details": [
+    {
+     "name": "Mason Sports Park DGC"
+    },
+    {
+     "name": "Mason, OH"
+    },
+    {
+     "name": "18.4 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Walton Community Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=5793",
+   "details": [
+    {
+     "name": "Walton Community Park"
+    },
+    {
+     "name": "Walton, KY"
+    },
+    {
+     "name": "19.0 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DGA"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Fairfield Township Community DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=3027",
+   "details": [
+    {
+     "name": "Fairfield Township Community DGC"
+    },
+    {
+     "name": "Hamilton, OH"
+    },
+    {
+     "name": "19.4 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Amelia DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=960",
+   "details": [
+    {
+     "name": "Amelia DGC"
+    },
+    {
+     "name": "Amelia, OH"
+    },
+    {
+     "name": "19.4 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Grass"
+    }
+   ]
+  },
+  {
+   "name": "Reserves Park DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=7976",
+   "details": [
+    {
+     "name": "Reserves Park DGC"
+    },
+    {
+     "name": "Hamilton, OH"
+    },
+    {
+     "name": "19.4 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 2"
+    },
+    {
+     "name": "Rubber"
+    }
+   ]
+  },
+  {
+   "name": "Millikin Mile",
+   "url": "https://www.dgcoursereview.com/course.php?id=8136",
+   "details": [
+    {
+     "name": "Millikin Mile"
+    },
+    {
+     "name": "Hamilton, OH"
+    },
+    {
+     "name": "20.1 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Cabin Creek",
+   "url": "https://www.dgcoursereview.com/course.php?id=658",
+   "details": [
+    {
+     "name": "Cabin Creek"
+    },
+    {
+     "name": "Butler County, OH"
+    },
+    {
+     "name": "20.1 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Spiderweb3"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Gauche Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=5826",
+   "details": [
+    {
+     "name": "Gauche Park"
+    },
+    {
+     "name": "Owensville, OH"
+    },
+    {
+     "name": "20.7 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DN Liberty"
+    },
+    {
+     "name": "Woodchips"
+    }
+   ]
+  },
+  {
+   "name": "Wilson Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=851",
+   "details": [
+    {
+     "name": "Wilson Park"
+    },
+    {
+     "name": "Middletown, OH"
+    },
+    {
+     "name": "22.0 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Monroe Community Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=2414",
+   "details": [
+    {
+     "name": "Monroe Community Park"
+    },
+    {
+     "name": "Monroe, OH"
+    },
+    {
+     "name": "22.2 Miles"
+    },
+    {
+     "name": "24"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Osage Grove DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=5884",
+   "details": [
+    {
+     "name": "Osage Grove DGC"
+    },
+    {
+     "name": "Goshen, OH"
+    },
+    {
+     "name": "22.9 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Rubber"
+    }
+   ]
+  },
+  {
+   "name": "Newtonsville DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=8132",
+   "details": [
+    {
+     "name": "Newtonsville DGC"
+    },
+    {
+     "name": "Newtonsville, OH"
+    },
+    {
+     "name": "23.4 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "InStep"
+    },
+    {
+     "name": "Mulch & Toeboard"
+    }
+   ]
+  },
+  {
+   "name": "Cedar Sentinels",
+   "url": "https://www.dgcoursereview.com/course.php?id=6791",
+   "details": [
+    {
+     "name": "Cedar Sentinels"
+    },
+    {
+     "name": "Aurora, IN"
+    },
+    {
+     "name": "24.3 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Pavers"
+    }
+   ]
+  },
+  {
+   "name": "Miami University",
+   "url": "https://www.dgcoursereview.com/course.php?id=6161",
+   "details": [
+    {
+     "name": "Miami University"
+    },
+    {
+     "name": "Oxford, OH"
+    },
+    {
+     "name": "25.4 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Turtlecreek",
+   "url": "https://www.dgcoursereview.com/course.php?id=228",
+   "details": [
+    {
+     "name": "Turtlecreek"
+    },
+    {
+     "name": "Lebanon, OH"
+    },
+    {
+     "name": "26.9 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Mach New 2"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Harmon Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=4486",
+   "details": [
+    {
+     "name": "Harmon Park"
+    },
+    {
+     "name": "Lebanon, OH"
+    },
+    {
+     "name": "26.9 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Rubber"
+    }
+   ]
+  },
+  {
+   "name": "Countryside YMCA",
+   "url": "https://www.dgcoursereview.com/course.php?id=3304",
+   "details": [
+    {
+     "name": "Countryside YMCA"
+    },
+    {
+     "name": "Lebanon, OH"
+    },
+    {
+     "name": "26.9 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Grass"
+    }
+   ]
+  },
+  {
+   "name": "Williamsburg Community Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=879",
+   "details": [
+    {
+     "name": "Williamsburg Community Park"
+    },
+    {
+     "name": "Williamsburg, OH"
+    },
+    {
+     "name": "27.4 Miles"
+    },
+    {
+     "name": "20"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Eagle Ridge DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=3703",
+   "details": [
+    {
+     "name": "Eagle Ridge DGC"
+    },
+    {
+     "name": "Springboro, OH"
+    },
+    {
+     "name": "31.9 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Lightning DB-5"
+    },
+    {
+     "name": "Natural"
+    }
+   ]
+  },
+  {
+   "name": "Disctractions DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=3680",
+   "details": [
+    {
+     "name": "Disctractions DGC"
+    },
+    {
+     "name": "College Corner, OH"
+    },
+    {
+     "name": "32.4 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Concrete"
+    }
+   ],
+   "hole_number": [
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "242 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "192 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "203 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "160 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "189 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5251 ft / 69"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "346 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "351 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "236 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "284 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "314 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "289 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "242 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "274 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "334 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "377 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "475 ft (5)"
+    },
+    {
+     "name": "14",
+     "selection4": "310 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "347 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "301 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "311 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "295 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5666 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "390 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "320 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "140 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "210 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "255 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "275 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "340 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "390 ft (5)"
+    },
+    {
+     "name": "14",
+     "selection4": "345 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "455 ft (5)"
+    },
+    {
+     "name": "16",
+     "selection4": "280 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "250 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "400 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5245 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "269 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "388 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "206 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "162 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "291 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "189 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "196 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "259 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "269 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "299 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "325 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "309 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "444 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "182 ft (3)"
+    },
+    {
+     "name": "19",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "20",
+     "selection4": "246 ft (3)"
+    },
+    {
+     "name": "21",
+     "selection4": "269 ft (3)"
+    },
+    {
+     "name": "22",
+     "selection4": "393 ft (3)"
+    },
+    {
+     "name": "23",
+     "selection4": "249 ft (3)"
+    },
+    {
+     "name": "24",
+     "selection4": "244 ft (3)"
+    },
+    {
+     "name": "25",
+     "selection4": "234 ft (3)"
+    },
+    {
+     "name": "26",
+     "selection4": "204 ft (3)"
+    },
+    {
+     "name": "27",
+     "selection4": "156 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "149 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "139 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "133 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "141 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "206 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "153 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "162 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "129 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "189 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "196 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "259 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "269 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "204 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "156 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "372 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "270 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "522 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "147 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "315 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "339 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "519 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "339 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "420 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "285 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "174 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "477 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "333 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "177 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "432 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "342 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "204 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "415 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "224 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "276 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "280 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "433 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "226 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "224 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "325 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "213 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "355 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "258 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "174 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "298 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "348 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "270 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "313 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "216 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "218 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "192 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "216 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "234 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "141 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "332 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "405 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "335 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "210 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "325 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "260 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "300 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "360 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "320 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "330 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "206 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "325 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "430 ft (5)"
+    },
+    {
+     "name": "18",
+     "selection4": "275 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "257 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "295 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "136 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "163 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "176 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "271 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "129 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "208 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2700 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "374 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "368 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "387 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "326 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "370 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "445 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "390 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "297 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "322 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "295 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "370 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "295 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "120 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "160 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2250 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "312 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "258 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "518 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "486 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "487 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "338 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "377 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "387 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "450 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "489 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "318 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "233 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "288 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "460 ft (4)"
+    },
+    {
+     "name": "A",
+     "selection4": "322 ft (3)"
+    },
+    {
+     "name": "B",
+     "selection4": "393 ft (4)"
+    },
+    {
+     "name": "C",
+     "selection4": "257 ft (3)"
+    },
+    {
+     "name": "D",
+     "selection4": "294 ft (3)"
+    },
+    {
+     "name": "E",
+     "selection4": "233 ft (3)"
+    },
+    {
+     "name": "F",
+     "selection4": "309 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "265 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "323 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "269 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "474 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "222 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "279 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "302 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "390 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "297 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "282 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "288 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "348 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "468 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "306 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "384 ft (3)"
+    },
+    {
+     "name": "19",
+     "selection4": "345 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "6396 ft / 57"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "262 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "316 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "305 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "278 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "236 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "265 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "262 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "241 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "301 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "386 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "305 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "336 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "228 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "384 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "368 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "326 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "182 ft (2)"
+    },
+    {
+     "name": "4",
+     "selection4": "199 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "365 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "257 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "149 ft (2)"
+    },
+    {
+     "name": "8",
+     "selection4": "413 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "321 ft (2)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "224 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "304 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "297 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "265 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "266 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "410 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "123 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "328 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "417 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "164 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "224 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "209 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "222 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "274 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "352 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "305 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "285 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "310 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "4675 ft / 57"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "326 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "464 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "223 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "237 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "199 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "308 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "263 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "264 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "426 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "316 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "219 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "271 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "257 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "232 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "274 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    }
+   ]
+  },
+  {
+   "name": "Camp Swoneky",
+   "url": "https://www.dgcoursereview.com/course.php?id=7307",
+   "details": [
+    {
+     "name": "Camp Swoneky"
+    },
+    {
+     "name": "Oregonia, OH"
+    },
+    {
+     "name": "32.7 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Rubber"
+    }
+   ]
+  },
+  {
+   "name": "Gulley Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=572",
+   "details": [
+    {
+     "name": "Gulley Park"
+    },
+    {
+     "name": "Clarksville, OH"
+    },
+    {
+     "name": "33.5 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Turf"
+    }
+   ]
+  },
+  {
+   "name": "Twin Creek - Black Course",
+   "url": "https://www.dgcoursereview.com/course.php?id=4787",
+   "details": [
+    {
+     "name": "Twin Creek - Black Course"
+    },
+    {
+     "name": "Germantown, OH"
+    },
+    {
+     "name": "34.1 Miles"
+    },
+    {
+     "name": "27"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Twin Creek - Red Course",
+   "url": "https://www.dgcoursereview.com/course.php?id=4786",
+   "details": [
+    {
+     "name": "Twin Creek - Red Course"
+    },
+    {
+     "name": "Germantown, OH"
+    },
+    {
+     "name": "34.1 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Sycamore Trails DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=1891",
+   "details": [
+    {
+     "name": "Sycamore Trails DGC"
+    },
+    {
+     "name": "Miamisburg, OH"
+    },
+    {
+     "name": "36.4 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Stubbs Park DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=8000",
+   "details": [
+    {
+     "name": "Stubbs Park DGC"
+    },
+    {
+     "name": "Centerville, OH"
+    },
+    {
+     "name": "36.6 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Mach 3"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Liberty Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=7218",
+   "details": [
+    {
+     "name": "Liberty Park"
+    },
+    {
+     "name": "Batesville, IN"
+    },
+    {
+     "name": "38.4 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Grass"
+    }
+   ]
+  },
+  {
+   "name": "Moraine Rotary DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=7946",
+   "details": [
+    {
+     "name": "Moraine Rotary DGC"
+    },
+    {
+     "name": "Moraine, OH"
+    },
+    {
+     "name": "41.5 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Natural"
+    }
+   ]
+  },
+  {
+   "name": "Lakengren DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=7269",
+   "details": [
+    {
+     "name": "Lakengren DGC"
+    },
+    {
+     "name": "Eaton, OH"
+    },
+    {
+     "name": "41.9 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Natural"
+    }
+   ]
+  },
+  {
+   "name": "Bellbrook Middle School",
+   "url": "https://www.dgcoursereview.com/course.php?id=5431",
+   "details": [
+    {
+     "name": "Bellbrook Middle School"
+    },
+    {
+     "name": "Bellbrook, OH"
+    },
+    {
+     "name": "42.2 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Paver Ston"
+    }
+   ]
+  },
+  {
+   "name": "Wilmington College",
+   "url": "https://www.dgcoursereview.com/course.php?id=8257",
+   "details": [
+    {
+     "name": "Wilmington College"
+    },
+    {
+     "name": "Wilmington, OH"
+    },
+    {
+     "name": "42.8 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "CCYC DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=8256",
+   "details": [
+    {
+     "name": "CCYC DGC"
+    },
+    {
+     "name": "Wilmington, OH"
+    },
+    {
+     "name": "42.8 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 2"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Arthur O. Fisher Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=872",
+   "details": [
+    {
+     "name": "Arthur O. Fisher Park"
+    },
+    {
+     "name": "Dayton, OH"
+    },
+    {
+     "name": "43.9 Miles"
+    },
+    {
+     "name": "24"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Belmont Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=1002",
+   "details": [
+    {
+     "name": "Belmont Park"
+    },
+    {
+     "name": "Dayton, OH"
+    },
+    {
+     "name": "44.4 Miles"
+    },
+    {
+     "name": "19"
+    },
+    {
+     "name": "Mach 3"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Indian Riffle Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=611",
+   "details": [
+    {
+     "name": "Indian Riffle Park"
+    },
+    {
+     "name": "Kettering, OH"
+    },
+    {
+     "name": "45.8 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Baskets"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Owen County High School",
+   "url": "https://www.dgcoursereview.com/course.php?id=3310",
+   "details": [
+    {
+     "name": "Owen County High School"
+    },
+    {
+     "name": "Owenton, KY"
+    },
+    {
+     "name": "48.3 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Other"
+    }
+   ]
+  },
+  {
+   "name": "Karohl Park DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=8790",
+   "details": [
+    {
+     "name": "Karohl Park DGC"
+    },
+    {
+     "name": "Beavercreek, OH"
+    },
+    {
+     "name": "49.1 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Other"
+    },
+    {
+     "name": "Natural"
+    }
+   ]
+  },
+  {
+   "name": "Westbrook Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=3232",
+   "details": [
+    {
+     "name": "Westbrook Park"
+    },
+    {
+     "name": "Dayton, OH"
+    },
+    {
+     "name": "49.8 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Rocky Fork State Park - South Beach",
+   "url": "https://www.dgcoursereview.com/course.php?id=2953",
+   "details": [
+    {
+     "name": "Rocky Fork State Park - South Beach"
+    },
+    {
+     "name": "Hillsboro, OH"
+    },
+    {
+     "name": "50.7 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Chainstar"
+    },
+    {
+     "name": "Mixed"
+    }
+   ]
+  },
+  {
+   "name": "Englewood MetroPark DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=2768",
+   "details": [
+    {
+     "name": "Englewood MetroPark DGC"
+    },
+    {
+     "name": "Englewood, OH"
+    },
+    {
+     "name": "52.1 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ],
+   "hole_number": [
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "404 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "315 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "306 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "222 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "278 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "242 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "251 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "349 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "333 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "402 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "261 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "303 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "345 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "231 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "238 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "253 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5203 ft / 59"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "194 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "219 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "381 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "243 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "258 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "247 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "324 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "361 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "410 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "347 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "489 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "403 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "521 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "455 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "331 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "231 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "273 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "292 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "264 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "199 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "452 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "397 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "413 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "233 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "173 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "306 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "184 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "159 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "142 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "244 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "169 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "197 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "331 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "6032 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "252 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "226 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "120 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "252 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "202 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "155 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "--"
+    },
+    {
+     "name": "11",
+     "selection4": "--"
+    },
+    {
+     "name": "12",
+     "selection4": "--"
+    },
+    {
+     "name": "13",
+     "selection4": "--"
+    },
+    {
+     "name": "14",
+     "selection4": "--"
+    },
+    {
+     "name": "15",
+     "selection4": "--"
+    },
+    {
+     "name": "16",
+     "selection4": "--"
+    },
+    {
+     "name": "17",
+     "selection4": "--"
+    },
+    {
+     "name": "18",
+     "selection4": "--"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5059 ft / 56"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "360 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "280 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "263 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "247 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "415 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "372 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "411 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "175 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "145 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "182 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "165 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "165 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "155 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2647 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "279 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "435 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "384 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "357 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "269 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "302 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "228 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "222 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "519 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "327 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "592 ft (5)"
+    },
+    {
+     "name": "12",
+     "selection4": "435 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "360 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "366 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "303 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "252 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "306 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "7858 ft / 66"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "175 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "275 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "140 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "280 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "275 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "1965 ft / 27"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "339 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "299 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "387 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "261 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "379 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "254 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "212 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "327 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "241 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "206 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "416 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "274 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "424 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "382 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "261 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "386 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "299 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "132 ft (2)"
+    },
+    {
+     "name": "2",
+     "selection4": "102 ft (2)"
+    },
+    {
+     "name": "3",
+     "selection4": "70 ft (2)"
+    },
+    {
+     "name": "4",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "93 ft (2)"
+    },
+    {
+     "name": "6",
+     "selection4": "192 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "127 ft (2)"
+    },
+    {
+     "name": "8",
+     "selection4": "163 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "125 ft (2)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "234 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "411 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "294 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "345 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "313 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "447 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "397 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "206 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "274 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "530 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "155 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "204 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "231 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "141 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "294 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "370 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "390 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "387 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "274 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "475 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "710 ft (5)"
+    },
+    {
+     "name": "13",
+     "selection4": "450 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "540 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "760 ft (5)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "4895 ft / 62"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "231 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "137 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "171 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "237 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "186 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "206 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "--"
+    },
+    {
+     "name": "11",
+     "selection4": "--"
+    },
+    {
+     "name": "12",
+     "selection4": "--"
+    },
+    {
+     "name": "13",
+     "selection4": "--"
+    },
+    {
+     "name": "14",
+     "selection4": "--"
+    },
+    {
+     "name": "15",
+     "selection4": "--"
+    },
+    {
+     "name": "16",
+     "selection4": "--"
+    },
+    {
+     "name": "17",
+     "selection4": "--"
+    },
+    {
+     "name": "18",
+     "selection4": "--"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "315 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "300 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "420 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "270 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "303 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2598 ft / 28"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "329 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "542 ft (5)"
+    },
+    {
+     "name": "3",
+     "selection4": "317 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "340 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "303 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "311 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "264 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "328 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "331 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "420 ft (5)"
+    },
+    {
+     "name": "3",
+     "selection4": "395 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "380 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "224 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "506 ft (5)"
+    },
+    {
+     "name": "8",
+     "selection4": "362 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "182 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "268 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "165 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "203 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "257 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "361 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "144 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "162 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "206 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "136 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "212 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "303 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "373 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "242 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "196 ft (3)"
+    },
+    {
+     "name": "19",
+     "selection4": "266 ft (3)"
+    },
+    {
+     "name": "20",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "21",
+     "selection4": "229 ft (3)"
+    },
+    {
+     "name": "22",
+     "selection4": "188 ft (3)"
+    },
+    {
+     "name": "23",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "24",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "6586 ft / 72"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "197 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "197 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "231 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "389 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "265 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "191 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "299 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "184 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "227 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "202 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "389 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "305 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "363 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "331 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "308 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "420 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "404 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5405 ft / 57"
+    },
+    {
+     "name": "Print Scorecards:"
+    }
+   ]
+  },
+  {
+   "name": "The Glen",
+   "url": "https://www.dgcoursereview.com/course.php?id=7956",
+   "details": [
+    {
+     "name": "The Glen"
+    },
+    {
+     "name": "Richmond, IN"
+    },
+    {
+     "name": "52.5 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Baskets"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "New Creations - Living Waters DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=4851",
+   "details": [
+    {
+     "name": "New Creations - Living Waters DGC"
+    },
+    {
+     "name": "Richmond, IN"
+    },
+    {
+     "name": "52.5 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Grass"
+    }
+   ]
+  },
+  {
+   "name": "Clear Creek Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=5961",
+   "details": [
+    {
+     "name": "Clear Creek Park"
+    },
+    {
+     "name": "Richmond, IN"
+    },
+    {
+     "name": "52.5 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Mixed"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Herbert C. Huber Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=5679",
+   "details": [
+    {
+     "name": "Herbert C. Huber Park"
+    },
+    {
+     "name": "Huber Heights, OH"
+    },
+    {
+     "name": "53.0 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Helke Park DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=8702",
+   "details": [
+    {
+     "name": "Helke Park DGC"
+    },
+    {
+     "name": "Vandalia, OH"
+    },
+    {
+     "name": "53.6 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach X"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Handyman Ace Hardware DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=4222",
+   "details": [
+    {
+     "name": "Handyman Ace Hardware DGC"
+    },
+    {
+     "name": "Fairborn, OH"
+    },
+    {
+     "name": "54.0 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Greeneview High School DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=8354",
+   "details": [
+    {
+     "name": "Greeneview High School DGC"
+    },
+    {
+     "name": "Jamestown, OH"
+    },
+    {
+     "name": "54.4 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Grass"
+    }
+   ]
+  },
+  {
+   "name": "Maysville Community DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=9051",
+   "details": [
+    {
+     "name": "Maysville Community DGC"
+    },
+    {
+     "name": "Maysville, KY"
+    },
+    {
+     "name": "54.5 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Gravel"
+    }
+   ]
+  },
+  {
+   "name": "West Milton Municipal Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=8179",
+   "details": [
+    {
+     "name": "West Milton Municipal Park"
+    },
+    {
+     "name": "West Milton, OH"
+    },
+    {
+     "name": "56.8 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Mills Lawn DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=8436",
+   "details": [
+    {
+     "name": "Mills Lawn DGC"
+    },
+    {
+     "name": "Yellow Springs, OH"
+    },
+    {
+     "name": "57.5 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Baskets"
+    },
+    {
+     "name": "Grass"
+    }
+   ]
+  },
+  {
+   "name": "Riverside Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=5464",
+   "details": [
+    {
+     "name": "Riverside Park"
+    },
+    {
+     "name": "Rushville, IN"
+    },
+    {
+     "name": "57.6 Miles"
+    },
+    {
+     "name": "4"
+    },
+    {
+     "name": "DGA"
+    },
+    {
+     "name": "Gravel"
+    }
+   ]
+  },
+  {
+   "name": "Tipp City DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=6550",
+   "details": [
+    {
+     "name": "Tipp City DGC"
+    },
+    {
+     "name": "Tipp City, OH"
+    },
+    {
+     "name": "57.7 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Grass"
+    }
+   ]
+  },
+  {
+   "name": "Cedarville University DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=5145",
+   "details": [
+    {
+     "name": "Cedarville University DGC"
+    },
+    {
+     "name": "Cedarville, OH"
+    },
+    {
+     "name": "57.9 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Georgetown College",
+   "url": "https://www.dgcoursereview.com/course.php?id=1306",
+   "details": [
+    {
+     "name": "Georgetown College"
+    },
+    {
+     "name": "Georgetown, KY"
+    },
+    {
+     "name": "62.8 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "Mach 3"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Community Park DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=1147",
+   "details": [
+    {
+     "name": "Community Park DGC"
+    },
+    {
+     "name": "Troy, OH"
+    },
+    {
+     "name": "63.8 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Lightning DB-5"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Harry Hill Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=4899",
+   "details": [
+    {
+     "name": "Harry Hill Park"
+    },
+    {
+     "name": "Eminence, KY"
+    },
+    {
+     "name": "64.1 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Baskets"
+    },
+    {
+     "name": "Natural"
+    }
+   ]
+  },
+  {
+   "name": "Wittenberg University",
+   "url": "https://www.dgcoursereview.com/course.php?id=54",
+   "details": [
+    {
+     "name": "Wittenberg University"
+    },
+    {
+     "name": "Springfield, OH"
+    },
+    {
+     "name": "65.8 Miles"
+    },
+    {
+     "name": "9"
+    },
+    {
+     "name": "Mach 5"
+    },
+    {
+     "name": "Mulch"
+    }
+   ]
+  },
+  {
+   "name": "East Frankfort Park DGC",
+   "url": "https://www.dgcoursereview.com/course.php?id=1216",
+   "details": [
+    {
+     "name": "East Frankfort Park DGC"
+    },
+    {
+     "name": "Frankfort, KY"
+    },
+    {
+     "name": "66.5 Miles"
+    },
+    {
+     "name": "24"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Buck Creek State Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=2502",
+   "details": [
+    {
+     "name": "Buck Creek State Park"
+    },
+    {
+     "name": "Springfield, OH"
+    },
+    {
+     "name": "66.9 Miles"
+    },
+    {
+     "name": "18"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ]
+  },
+  {
+   "name": "Paint Creek State Park",
+   "url": "https://www.dgcoursereview.com/course.php?id=4896",
+   "details": [
+    {
+     "name": "Paint Creek State Park"
+    },
+    {
+     "name": "Bainbridge, OH"
+    },
+    {
+     "name": "67.5 Miles"
+    },
+    {
+     "name": "24"
+    },
+    {
+     "name": "DISCatcher"
+    },
+    {
+     "name": "Concrete"
+    }
+   ],
+   "hole_number": [
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "420 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "342 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "217 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "237 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "452 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "356 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "331 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "261 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "286 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "226 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "214 ft (3)"
+    },
+    {
+     "name": "A",
+     "selection4": "315 ft (3)"
+    },
+    {
+     "name": "B",
+     "selection4": "307 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "221 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "178 ft (3)"
+    },
+    {
+     "name": "C",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "293 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "313 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "229 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "316 ft (3)"
+    },
+    {
+     "name": "19",
+     "selection4": "325 ft (3)"
+    },
+    {
+     "name": "20",
+     "selection4": "245 ft (3)"
+    },
+    {
+     "name": "21",
+     "selection4": "375 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "7063 ft / 73"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "230 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "227 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "177 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "270 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "165 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "214 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "168 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "303 ft (5)"
+    },
+    {
+     "name": "9",
+     "selection4": "220 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "160 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "160 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "238 ft (5)"
+    },
+    {
+     "name": "13",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "191 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "219 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "174 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "4785 ft / 64"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "317 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "290 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "315 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "297 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "531 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "248 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "360 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "338 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "532 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "340 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "322 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "485 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "478 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "677 ft (5)"
+    },
+    {
+     "name": "17",
+     "selection4": "416 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "294 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5925 ft / 59"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "340 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "320 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "160 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "340 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "255 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "414 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "371 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "179 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "191 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "427 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "147 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "202 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "390 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "258 ft (3)"
+    },
+    {
+     "name": "19",
+     "selection4": "139 ft (3)"
+    },
+    {
+     "name": "20",
+     "selection4": "415 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "242 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "221 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "331 ft (5)"
+    },
+    {
+     "name": "4",
+     "selection4": "352 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "220 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "235 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "290 ft (5)"
+    },
+    {
+     "name": "8",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "220 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "200 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "280 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "235 ft (4)"
+    },
+    {
+     "name": "13",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "232 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "185 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "170 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "220 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "5187 ft / 54"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "238 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "278 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "226 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "260 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "380 ft (5)"
+    },
+    {
+     "name": "6",
+     "selection4": "294 ft (4)"
+    },
+    {
+     "name": "7",
+     "selection4": "242 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "382 ft (5)"
+    },
+    {
+     "name": "9",
+     "selection4": "232 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2638 ft / 36"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "--"
+    },
+    {
+     "name": "2",
+     "selection4": "--"
+    },
+    {
+     "name": "3",
+     "selection4": "--"
+    },
+    {
+     "name": "4",
+     "selection4": "--"
+    },
+    {
+     "name": "5",
+     "selection4": "--"
+    },
+    {
+     "name": "6",
+     "selection4": "--"
+    },
+    {
+     "name": "7",
+     "selection4": "--"
+    },
+    {
+     "name": "8",
+     "selection4": "--"
+    },
+    {
+     "name": "9",
+     "selection4": "--"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "-- / --"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "426 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "327 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "340 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "260 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "265 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "340 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "315 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "520 ft (5)"
+    },
+    {
+     "name": "17",
+     "selection4": "345 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "445 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "283 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "518 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "318 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "286 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "277 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "318 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "362 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "303 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "664 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "212 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "332 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "282 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "508 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "301 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "263 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "271 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "301 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "417 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "188 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "248 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "323 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "222 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "200 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "205 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "330 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "400 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "206 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "120 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "180 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "350 ft (3)"
+    },
+    {
+     "name": "A",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "B",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "C",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "D",
+     "selection4": "257 ft (3)"
+    },
+    {
+     "name": "E",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "F",
+     "selection4": "160 ft (3)"
+    },
+    {
+     "name": "G",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "H",
+     "selection4": "138 ft (3)"
+    },
+    {
+     "name": "I",
+     "selection4": "437 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "165 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "8475 ft / 81"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "242 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "194 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "210 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "298 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "252 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "390 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "356 ft (4)"
+    },
+    {
+     "name": "9",
+     "selection4": "271 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "234 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "218 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "253 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "360 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "280 ft (3)"
+    },
+    {
+     "name": "16",
+     "selection4": "216 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "217 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "321 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "6000 ft / 59"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "459 ft (4)"
+    },
+    {
+     "name": "4",
+     "selection4": "249 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "195 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "183 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "177 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "186 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "171 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "297 ft (4)"
+    },
+    {
+     "name": "12",
+     "selection4": "181 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "201 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "15",
+     "selection4": "297 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "147 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "198 ft (3)"
+    },
+    {
+     "name": "18",
+     "selection4": "225 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2697 ft / 33"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "240 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "305 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "295 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "175 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "305 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "295 ft (3)"
+    },
+    {
+     "name": "10",
+     "selection4": "275 ft (3)"
+    },
+    {
+     "name": "11",
+     "selection4": "185 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "250 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "350 ft (4)"
+    },
+    {
+     "name": "14",
+     "selection4": "330 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "425 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "340 ft (3)"
+    },
+    {
+     "name": "17",
+     "selection4": "540 ft (5)"
+    },
+    {
+     "name": "18",
+     "selection4": "420 ft (4)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "175 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "260 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "270 ft (5)"
+    },
+    {
+     "name": "4",
+     "selection4": "222 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "200 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "190 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "175 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "150 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "170 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "325 ft (4)"
+    },
+    {
+     "name": "2",
+     "selection4": "609 ft (5)"
+    },
+    {
+     "name": "3",
+     "selection4": "319 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "258 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "257 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "246 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "230 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "271 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "587 ft (4)"
+    },
+    {
+     "name": "10",
+     "selection4": "463 ft (4)"
+    },
+    {
+     "name": "11",
+     "selection4": "355 ft (3)"
+    },
+    {
+     "name": "12",
+     "selection4": "455 ft (3)"
+    },
+    {
+     "name": "13",
+     "selection4": "265 ft (3)"
+    },
+    {
+     "name": "14",
+     "selection4": "536 ft (4)"
+    },
+    {
+     "name": "15",
+     "selection4": "359 ft (4)"
+    },
+    {
+     "name": "16",
+     "selection4": "387 ft (4)"
+    },
+    {
+     "name": "17",
+     "selection4": "462 ft (4)"
+    },
+    {
+     "name": "18",
+     "selection4": "266 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "8697 ft / 63"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "220 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "167 ft (3)"
+    },
+    {
+     "name": "3",
+     "selection4": "213 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "358 ft (4)"
+    },
+    {
+     "name": "5",
+     "selection4": "186 ft (3)"
+    },
+    {
+     "name": "6",
+     "selection4": "196 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "265 ft (3)"
+    },
+    {
+     "name": "8",
+     "selection4": "141 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "158 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):",
+     "selection4": "2905 ft / 28"
+    },
+    {
+     "name": "Print Scorecards:"
+    },
+    {
+     "name": "Hole #"
+    },
+    {
+     "name": "1",
+     "selection4": "213 ft (3)"
+    },
+    {
+     "name": "2",
+     "selection4": "287 ft (4)"
+    },
+    {
+     "name": "3",
+     "selection4": "237 ft (3)"
+    },
+    {
+     "name": "4",
+     "selection4": "215 ft (3)"
+    },
+    {
+     "name": "5",
+     "selection4": "289 ft (4)"
+    },
+    {
+     "name": "6",
+     "selection4": "233 ft (3)"
+    },
+    {
+     "name": "7",
+     "selection4": "261 ft (4)"
+    },
+    {
+     "name": "8",
+     "selection4": "202 ft (3)"
+    },
+    {
+     "name": "9",
+     "selection4": "184 ft (3)"
+    },
+    {
+     "name": "Totals (Dist./Par):"
+    },
+    {
+     "name": "Print Scorecards:"
+    }
+   ]
+  }
+ ]
+}
